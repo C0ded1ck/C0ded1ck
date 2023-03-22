@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan</h1>
-<h3 align="center">A wondering programming enthusiasti</h3>
+<h3 align="center">A wondering programming enthusiast</h3>
 
 - Humour - **I Go crazy with Go.**
 
